@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #212020;		
+	color: #EDEDED;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 20px;
+	font-weight: bold;
+	
+	text-align: center;
+}
+
+div#container {
+	width: 700px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+div#text {
+	position: absolute;
+	top: 45%;
+	width: 699px;
+}
+
+a {
+	color: #2D440F;
+	text-decoration: none;
+}
