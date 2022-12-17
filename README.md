@@ -1,10 +1,13 @@
 
 
-<h1 align="center">ThereAreNoJumpScareHere</h1>
+<h1 align="center">[ThereAreNoJumpScareHere]</h1>
 
 <p align="center">This project will be Archive For ever no update and Fixed bug 👌</p>
 
 ---
+## Play The game - or test the demo
+- [ThereAreNoJumpScareHere](https://jndev03.github.io/ThereAreNoJumpScareHere/)
+
 
 ## Installation
 
